@@ -1,11 +1,27 @@
-- name: HTML5/CSS3
+- name: C++
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
-
 - name: Python
-  percentage: 70
+  percentage: 90
+  color: success
+
+- name: Robot Operating System (ROS)
+  percentage: 95
+  color: primary
+
+- name: PyTorch/Tensorflow
+  percentage: 80
+  color: warning 
+
+- name: Docker
+  percentage: 75
   color: secondary
+
+- name: Amazon Web Services (AWS)
+  percentage: 70
+  color: light
+
+- name: MongoDB
+  percentage: 70
+  color: info
